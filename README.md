@@ -15,7 +15,7 @@ This is the card game Uno. It is based on the original card game and implements 
 
 ## How to Start the Game
 
-Visit https://compscilauren.github.io/uno/index.html
+Visit https://vocalnutria9174.github.io/uno-js/
 
 ## Development
 
