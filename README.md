@@ -1,3 +1,8 @@
+```
+<audio autoplay loop hidden>
+  <source src="https://github.com/VocalNutria9174/uno-js/raw/master/menu.mp3" type="audio/mpeg">
+</audio>
+```
 <h1 align="center">
   <a href="https://www.unorules.com/">
   <img width="455" src="https://github.com/compscilauren/uno/blob/master/uno_cover.png" alt="Uno"></a>
